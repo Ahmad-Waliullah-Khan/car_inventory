@@ -1,3 +1,3 @@
-This is a mini car invenotyr system made using my own custom MVC Framework built using Core PHP.
+This is a mini car inventory system made using my own custom MVC Framework built on top of Core PHP.
 
 It uses OOP MVC Standards, Ajax based form submission and bootstrap framework for UI.
