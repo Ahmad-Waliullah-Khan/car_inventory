@@ -1,3 +1,5 @@
-This is a mini car inventory system made using my own custom MVC Framework built on top of Core PHP.
+Live app : http://carinventory.epizy.com/
+
+This is a mini car inventory system made using custom MVC Framework built on top of Core PHP.
 
 It uses OOP MVC Standards, Ajax based form submission and bootstrap framework for UI.
